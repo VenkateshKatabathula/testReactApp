@@ -11,7 +11,7 @@ var concat = require('gulp-concat');
 
 var config = {
     port: 9005,
-    devBaseUrl: 'http://react-app-nginx-react-deployment.44fs.preview.openshiftapps.com/',
+//     devBaseUrl: 'http://react-app-nginx-react-deployment.44fs.preview.openshiftapps.com/',
     paths: {
         html: './src/*.html',
         js: './src/**/*.js',
